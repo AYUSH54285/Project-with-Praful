@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-master branch
-new branch
-=======
-master branch
->>>>>>> master
+master
